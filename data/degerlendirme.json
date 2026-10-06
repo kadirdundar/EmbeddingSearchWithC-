@@ -1,0 +1,22 @@
+[
+  { "query": "cezvede kahve nasıl pişirilir", "relevant": ["kahve.txt"] },
+  { "query": "espresso demleme", "relevant": ["kahve.txt"] },
+  { "query": "ofsayt kuralı nedir", "relevant": ["futbol.txt"] },
+  { "query": "VAR hakem", "relevant": ["futbol.txt"] },
+  { "query": "kızıl gezegen", "relevant": ["uzay.txt"] },
+  { "query": "en büyük gezegen hangisi", "relevant": ["uzay.txt"] },
+  { "query": "embedding vektör anlamsal arama", "relevant": ["yapay-zeka.txt"] },
+  { "query": "büyük dil modelleri transformer", "relevant": ["yapay-zeka.txt"] },
+  { "query": "mercimek çorbası tarifi", "relevant": ["yemek.txt"] },
+  { "query": "patlıcan yemeği", "relevant": ["yemek.txt"] },
+  { "query": "İstanbul'un fethi", "relevant": ["tarih.txt"] },
+  { "query": "cumhuriyetin ilanı", "relevant": ["tarih.txt"] },
+  { "query": "haftada kaç dakika egzersiz yapmalıyım", "relevant": ["saglik.txt"] },
+  { "query": "kaç saat uyumalı", "relevant": ["saglik.txt"] },
+  { "query": "async await asenkron", "relevant": ["csharp.txt"] },
+  { "query": "SIMD vektör işlemleri", "relevant": ["csharp.txt"] },
+  { "query": "enflasyon ve faiz ilişkisi", "relevant": ["finans.txt"] },
+  { "query": "katılım bankacılığı murabaha", "relevant": ["finans.txt"] },
+  { "query": "sera gazları küresel ısınma", "relevant": ["iklim.txt"] },
+  { "query": "yenilenebilir enerji", "relevant": ["iklim.txt"] }
+]
